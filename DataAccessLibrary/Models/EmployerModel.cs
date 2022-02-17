@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLibrary.Models
 {
-    internal class EmployerModel
+    public class EmployerModel
     {
         public int Id { get; set; }
         public string EmployerName { get; set; }

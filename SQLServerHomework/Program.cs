@@ -15,6 +15,8 @@ namespace SQLServerHomework
 
             SqlCrud sql = new SqlCrud(GetConnectionString());
 
+            //ReadEmployee(sql, 1);
+
 
             //ReadAllEmployees(sql);
 
@@ -26,6 +28,33 @@ namespace SQLServerHomework
 
             Console.ReadLine();
 
+
+        }
+
+        private static void ReadEmployee(SqlCrud sql, int contactId)
+        {
+            var employee = sql.GetFullEmployeeById(contactId);
+
+            Console.WriteLine($"{ employee.BasicInfo.Id }: { employee.BasicInfo.FirstName } { employee.BasicInfo.LastName }");
+
+            Console.WriteLine("-------------------------------------");
+            Console.WriteLine($"Addresses on file:                  ");
+            Console.WriteLine("-------------------------------------");
+
+            foreach (var address in employee.Addresses)
+            {
+                Console.WriteLine($"{ address.StreetAddress} { address.City}, { address.State}  { address.ZipCode}");
+            }
+
+            Console.WriteLine("-------------------------------------");
+            Console.WriteLine($"Employers on file:                  ");
+            Console.WriteLine("-------------------------------------");
+
+            foreach (var employer in employee.Employers)
+            {
+                Console.WriteLine($"{ employer.EmployerName }");
+            }
+            Console.WriteLine();
 
         }
 
