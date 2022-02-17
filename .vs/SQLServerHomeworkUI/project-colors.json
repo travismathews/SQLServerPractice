@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b9037ea-4e3f-4f85-b9cd-9ab29ec229cd": {
+      "ProjectGuid": "3b9037ea-4e3f-4f85-b9cd-9ab29ec229cd",
+      "DisplayName": "SQLServerHomework",
+      "ColorIndex": 0
+    },
+    "6ea2d345-47b4-4123-be2f-fa0c352e402d": {
+      "ProjectGuid": "6ea2d345-47b4-4123-be2f-fa0c352e402d",
+      "DisplayName": "SQLEmployeesDB",
+      "ColorIndex": 1
+    },
+    "577077c8-26d7-4031-a7e2-442f4c9426c4": {
+      "ProjectGuid": "577077c8-26d7-4031-a7e2-442f4c9426c4",
+      "DisplayName": "DataAccessLibrary",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,10 @@
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\bin\Debug\SQLEmployeesDB.dacpac
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\bin\Debug\SQLEmployeesDB.dll
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\bin\Debug\SQLEmployeesDB.pdb
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\obj\Debug\SQLEmployeesDB.sqlproj.AssemblyReference.cache
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\obj\Debug\Model.xml
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\obj\Debug\refactor.xml
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\obj\Debug\postdeploy.sql
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\obj\Debug\predeploy.sql
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\obj\Debug\SQLEmployeesDB.dll
+C:\Users\mathewta\source\repos\SQLServerHomeworkUI\SQLEmployeesDB\obj\Debug\SQLEmployeesDB.pdb
